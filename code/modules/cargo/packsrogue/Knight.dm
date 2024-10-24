@@ -1,7 +1,7 @@
 
 /datum/supply_pack/rogue/Knight
 	group = "Knight"
-	crate_name = "Gifts from your Past"
+	crate_name = "Gifts of Lost Nobility"
 	crate_type = /obj/structure/closet/crate/chest/merchant
 
 

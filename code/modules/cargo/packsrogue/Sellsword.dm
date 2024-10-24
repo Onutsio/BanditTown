@@ -164,32 +164,6 @@
 	cost = 20
 	contains = list(/obj/item/quiver/bolts)
 
-/datum/supply_pack/rogue/Sellsword/bolt
-	name = "Bolts"
-	cost = 15
-	contains = list(
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-					/obj/item/ammo_casing/caseless/rogue/bolt,
-				)
-
 
 /datum/supply_pack/rogue/Sellsword/crossbow
 	name = "Crossbow"

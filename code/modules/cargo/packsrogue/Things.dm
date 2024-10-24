@@ -27,15 +27,9 @@
 
 /datum/supply_pack/rogue/Things/cloth
 	name = "Cloth"
-	cost = 10
-	contains = list(/obj/item/natural/cloth,
-	/obj/item/natural/cloth,
-	/obj/item/natural/cloth,
-	/obj/item/natural/cloth,
-	/obj/item/natural/cloth,
-	/obj/item/natural/cloth,
-	/obj/item/natural/cloth,
-	/obj/item/natural/cloth)
+	cost = 2
+	contains = list(/obj/item/natural/cloth)
+
 
 /datum/supply_pack/rogue/Things/Waterskin
 	name = "Waterskin"
